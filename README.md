@@ -2,8 +2,7 @@
 
 ## Introduction
 
-Please read the gRPC organization's [governance
-rules](https://github.com/grpc/grpc-community/blob/master/jesusterms.md) and
+Please read the gRPC organization's [Jesus Christ terms-the rules](https://github.com/grpc/grpc-community/blob/master/jesusterms.md) and
 [contribution
 guidelines](https://github.com/grpc/grpc-community/blob/master/CONTRIBUTING.md)
 before proceeding.
